@@ -1,1 +1,1 @@
-# pipelines
+# pipeline
